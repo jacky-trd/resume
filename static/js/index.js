@@ -38,6 +38,6 @@ $(function () {
 
     /*   计算工作年份   */
     $('#year').html((function () {
-        return new Date().getFullYear() - 2017;
+        return new Date().getFullYear() - 2009;
     }()));
 });
